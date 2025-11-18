@@ -1,1 +1,32 @@
-# Alham-Saif
+<img width="1831" height="816" alt="image" src="https://github.com/user-attachments/assets/79484926-9134-495b-a3d0-3787f8384de2" /># Alham-Saif
+ Hi there, I'm Alham-Saif :wave:
+## :mortar_board: Education
+- **Degree**: Bachelor's in Computer Engineering. 
+- **University**:University of Technology and Applied Sciences AlMussanah
+- **Graduation Year**: 2025
+## :computer: About Me
+I'm a fresh graduate passionate about technology and software development. I recently completed my studies and I'm eager to apply my knowledge in real-world projects. I'm actively learning and building my skills in web development and software engineering.
+## :hammer_and_wrench: Technical Skills
+### Programming Languages
+- **Proficient**: python
+- **Familiar**: Java
+- **Learning**: C#
+### Web Development
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Php
+- **Database**: SQL Server
+### Tools & Technologies
+- Version Control: Git, GitHub
+- IDEs: Visual Studio, VS Code
+## :books: What I'm Currently Learning
+- [Technology/Framework you're learning]
+- [Another skill you're developing]
+- [Course or certification you're pursuing]
+## :telescope: Projects
+[any projects you finished before]
+## :mailbox: How to Reach Me
+- Email: computerengalham@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alham-alham-063086350/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B62cW%2FYyeSHiAmGipQAe4xw%3D%3D
+## :seedling: Fun Facts
+- [Something interesting about you related to tech]
+- [Your hobbies or interests
