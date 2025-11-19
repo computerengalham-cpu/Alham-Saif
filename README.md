@@ -20,13 +20,14 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - IDEs: Visual Studio, VS Code
 ## :books: What I'm Currently Learning
 - [Technology/Framework you're learning]
-- [Another skill you're developing]
-- [Course or certification you're pursuing]
+- programing by AI
+- I finished online course about computer network in Hajeer Academy
+- And another short term course on pc Troubleshooting
 ## :telescope: Projects
-[any projects you finished before]
+I finished bachelor project which about Detect Leaf Disease using CNN and Python. This project was achieved first place on Paperfest Student Technical Paper Competition on my university during Research Excellence Day.
 ## :mailbox: How to Reach Me
 - Email: computerengalham@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alham-alham-063086350/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B62cW%2FYyeSHiAmGipQAe4xw%3D%3D
 ## :seedling: Fun Facts
-- [Something interesting about you related to tech]
-- [Your hobbies or interests
+- I built my first web application alone on Deploma Year.
+- I love tech new things on technology.
