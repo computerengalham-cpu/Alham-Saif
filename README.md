@@ -19,8 +19,8 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
 ## :books: What I'm Currently Learning
-- [Technology/Framework you're learning]
-- programing by AI
+- curently I learned how to be full stack developer.
+- programing by AI.
 - I finished online course about computer network in Hajeer Academy
 - And another short term course on pc Troubleshooting
 ## :telescope: Projects
