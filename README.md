@@ -8,7 +8,7 @@
 I'm a fresh graduate passionate about technology and software development. I recently completed my studies and I'm eager to apply my knowledge in real-world projects. I'm actively learning and building my skills in web development and software engineering.
 ## :hammer_and_wrench: Technical Skills
 ### Programming Languages
-- **Proficient**: python
+- **Proficient**: python,c,php
 - **Familiar**: Java
 - **Learning**: C#
 ### Web Development
